@@ -1,5 +1,6 @@
-"name": "framework7-react",
-"version": "2.1.0",
+{
+  "name": "framework7-react",
+  "version": "2.1.0",
   "description": "",
   "dependencies": {
     "cordova-custom-config": "5.1.0",
